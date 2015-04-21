@@ -1,1 +1,10 @@
-# ASP_NET-MVC-5-with-Bootstrap-and-Knockout_js
+ASP.NET MVC 5 with Bootstrap and Knockout.js
+==========
+
+This is the example code that accompanies ASP.NET MVC 5 with Bootstrap and Knockout.js by AUTHOR (ISBN). 
+
+Click the Download Zip button to the right to download example code.
+
+Visit the catalog page [here](http://shop.oreilly.com/product/0636920035350.do).
+
+See an error? Report it [here](http://oreilly.com/catalog/errata.csp?isbn=0636920035350), or simply fork and send us a pull request.
